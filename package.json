@@ -9,16 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Websoft2019/WT.git"
+    "url": "git+https://github.com/websoftWT/WT.git"
   },
   "keywords": [
-    "news",
-    "newsportal"
+    "news"
   ],
   "author": "Websoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Websoft2019/WT/issues"
+    "url": "https://github.com/websoftWT/WT/issues"
   },
-  "homepage": "https://github.com/Websoft2019/WT#readme"
+  "homepage": "https://github.com/websoftWT/WT#readme"
 }
