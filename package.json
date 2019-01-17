@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/websoftWT/WT/issues"
   },
-  "homepage": "https://github.com/websoftWT/WT#readme"
+  "homepage": "https://github.com/websoftWT/WT#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
